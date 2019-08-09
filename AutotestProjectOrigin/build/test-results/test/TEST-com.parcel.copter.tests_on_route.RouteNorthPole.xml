@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.parcel.copter.tests_on_route.RouteNorthPole" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-09T09:05:32" hostname="kit-Lenovo-B50-45" time="0.003">
+  <properties/>
+  <testcase name="testValueAsimutsNorthEast" classname="com.parcel.copter.tests_on_route.RouteNorthPole" time="0.003"/>
+  <system-out><![CDATA[- - - - -  Сoordinates for latitude and longitude the North Pole - - - - - 
+Asimut count correctly.
+117.98903767575095
+Asimut count correctly.
+121.8313500127023
+Asimut count correctly.
+123.69372019413237
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

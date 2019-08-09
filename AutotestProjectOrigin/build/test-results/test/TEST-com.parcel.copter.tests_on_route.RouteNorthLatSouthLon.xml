@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.parcel.copter.tests_on_route.RouteNorthLatSouthLon" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-09T09:05:32" hostname="kit-Lenovo-B50-45" time="0.009">
+  <properties/>
+  <testcase name="testValueAsimutsNorthEast" classname="com.parcel.copter.tests_on_route.RouteNorthLatSouthLon" time="0.009"/>
+  <system-out><![CDATA[- - - - -  Сoordinates for North latitude and South longitude - - - - - 
+Asimut count correctly.
+179.72847790497553
+Asimut count correctly.
+179.489858404284
+Asimut count correctly.
+178.92690885016913
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Asimut count correctly.
+178.85349686383773
+Asimut count correctly.
+176.7856839778023
+Asimut count correctly.
+178.70826189928212
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

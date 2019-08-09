@@ -1,0 +1,102 @@
+R- - - - -  Сoordinates of the Northern latitude and Eastern longitude - - - - - 
+Asimut count correctly.
+94.91690288660999
+Asimut count correctly.
+93.12099262479227
+Asimut count correctly.
+95.52313423983891
+P- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Asimut count correctly.
+92.42288195049845
+Asimut count correctly.
+91.07880695166104
+Asimut count correctly.
+91.87065829846408
+P- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+TAsimut count not correctly.(pointNumber = 1 wait =62.232, have =117.7936968089364 )
+O- - - - -  Сoordinates for southern latitude and Western longitude - - - - - 
+�!!!При выставлении отрицательных значений возникает ошибка, некорректные данные
+UAsimut count not correctly.(pointNumber = 1 wait =39.848, have =219.66689689402628 )
+L- - - - -  Сoordinates for North latitude and Western longitude - - - - - 
+Asimut count correctly.
+136.8570677276855
+Asimut count correctly.
+133.1745995784835
+Asimut count correctly.
+133.44771582717476
+P- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+UAsimut count not correctly.(pointNumber = 1 wait =150.65, have =209.19436788757432 )
+J- - - - -  Сoordinates for North latitude and South longitude - - - - - 
+Asimut count correctly.
+179.72847790497553
+Asimut count correctly.
+179.489858404284
+Asimut count correctly.
+178.92690885016913
+P- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Asimut count correctly.
+178.85349686383773
+Asimut count correctly.
+176.7856839778023
+Asimut count correctly.
+178.70826189928212
+
+	I- - - - -  Сoordinates for East latitude and North longitude - - - - - 
+
+	Asimut count correctly.
+
+	238.14105409390152
+
+	Asimut count correctly.
+
+	237.98947055556457
+
+	Asimut count correctly.
+
+	243.22335706904417
+
+	P- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+	Asimut count correctly.
+
+	242.06985562404992
+
+	Asimut count correctly.
+
+	242.4581958716668
+
+	Asimut count correctly.
+
+	243.2683459147139
+I- - - - -  Сoordinates for East latitude and South longitude - - - - - 
+�!!! При превышении азимута с 275 до 300 + и выше, возникает ошибка, некорректно выдает результат
+UAsimut count not correctly.(pointNumber = 1 wait =303.53, have =236.54360021112223 )
+H- - - - -  Сoordinates for East latitude and West longitude - - - - - 
+�!!! При превышении азимута с 275 до 300 + и выше, возникает ошибка, некорректно выдает результат
+UAsimut count not correctly.(pointNumber = 1 wait =270.878, have =90.33013828639015 )
+J- - - - -  Сoordinates for South latitude and North longitude - - - - - 
+�!!! При минимальном значении азимута  с 1 до 10 + и выше, возникает ошибка, некорректно выдает результат
+TAsimut count not correctly.(pointNumber = 1 wait =1.837, have =178.17472926434064 )
+S- - - - -  Сoordinates for latitude and longitude the Equator Meridian - - - - - 
+Asimut count correctly.
+130.36003597983478
+Asimut count correctly.
+127.52517335254925
+Asimut count correctly.
+128.46749215799366
+P- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Asimut count correctly.
+247.0046800501763
+Asimut count correctly.
+254.3531839465051
+Asimut count correctly.
+252.014888763411
+M- - - - -  Сoordinates for latitude and longitude the North Pole - - - - - 
+Asimut count correctly.
+117.98903767575095
+Asimut count correctly.
+121.8313500127023
+Asimut count correctly.
+123.69372019413237
+M- - - - -  Сoordinates for latitude and longitude the South Pole - - - - - 
+TAsimut count not correctly.(pointNumber = 1 wait =91.787, have =269.9496922265843 )

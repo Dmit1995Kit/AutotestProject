@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.parcel.copter.tests_on_route.RouteEquatorPrimeMeridian" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-09T09:05:32" hostname="kit-Lenovo-B50-45" time="0.006">
+  <properties/>
+  <testcase name="testValueAsimutsNorthEast" classname="com.parcel.copter.tests_on_route.RouteEquatorPrimeMeridian" time="0.006"/>
+  <system-out><![CDATA[- - - - -  Сoordinates for latitude and longitude the Equator Meridian - - - - - 
+Asimut count correctly.
+130.36003597983478
+Asimut count correctly.
+127.52517335254925
+Asimut count correctly.
+128.46749215799366
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Asimut count correctly.
+247.0046800501763
+Asimut count correctly.
+254.3531839465051
+Asimut count correctly.
+252.014888763411
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

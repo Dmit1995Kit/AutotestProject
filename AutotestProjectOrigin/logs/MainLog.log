@@ -1,0 +1,11 @@
+2019-07-26 17:37:56 INFO  RouteFactory:40 - saveRouteToFile(Routes/testRoute.json, route)
+2019-07-26 17:37:56 WARN  RouteFactory:52 - File Routes/testRoute.json is exist? it would be rewrite.
+2019-07-26 17:46:32 INFO  RouteFactory:40 - saveRouteToFile(Routes/testRoute.json, route)
+2019-07-26 17:46:32 WARN  RouteFactory:52 - File Routes/testRoute.json is exist? it would be rewrite.
+2019-07-26 17:46:32 INFO  RouteFactory:28 - getRouteFromFile(Routes/testRoute.json)
+2019-07-26 17:48:31 INFO  RouteFactory:40 - saveRouteToFile(Routes/testRoute.json, route)
+2019-07-26 17:48:31 WARN  RouteFactory:52 - File Routes/testRoute.json is exist? it would be rewrite.
+2019-07-26 17:48:31 INFO  RouteFactory:28 - getRouteFromFile(Routes/testRoute.json)
+2019-07-26 17:57:40 INFO  RouteFactory:40 - saveRouteToFile(Routes/testRoute.json, route)
+2019-07-26 17:57:40 WARN  RouteFactory:52 - File Routes/testRoute.json is exist? it would be rewrite.
+2019-07-26 17:57:40 INFO  RouteFactory:28 - getRouteFromFile(Routes/testRoute.json)
